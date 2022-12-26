@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "jimp": "^0.16.2",
+    "telegraf": "^4.11.2",
+    "telegraf-calendar-telegram": "^2.0.2"
+  }
+}
