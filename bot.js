@@ -2,7 +2,7 @@ const { Telegraf } = require('telegraf');
 const { message } = require('telegraf/filters');
 const Jimp = require('jimp')
 
-const TOKEN = '5637821156:AAHO5v4jrvK-RlBiBW092H4ZhgpQIuUWMYY';
+const TOKEN = '';
 
 const bot = new Telegraf(TOKEN);
 
