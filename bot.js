@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf');
 const { message } = require('telegraf/filters');
 const Jimp = require('jimp')
-
+//try to make the bot which takes the photo and returns another version of the same photo
 const TOKEN = '';
 
 const bot = new Telegraf(TOKEN);
